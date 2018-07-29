@@ -115,7 +115,7 @@ export default class asdf extends React.Component {
 const styles = StyleSheet.create ({
   headerContainer:{
     display:'flex',
-    marginTop:55,
+    marginTop:56,
     alignItems:'center',
     paddingBottom:20,
     borderBottomWidth:1,
